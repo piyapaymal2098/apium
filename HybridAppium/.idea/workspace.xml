@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36089f22-857e-4ea6-908d-50729384bf67" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2p4Knm2MP6bRyop17AgvjfkmUbN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AppiumBasic.AppiumBasictest.executor": "Run",
+    "TestNG.AppiumBasic.appiumBasictest.executor": "Run",
+    "TestNG.AppiumBasic.executor": "Run",
+    "TestNG.AppiumBasic.testAppiumBasic.executor": "Run",
+    "TestNG.Flipkart.flipkartlogin.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Qapitol QA/IdeaProjects/HybridAppium/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Flipkart.flipkartlogin">
+    <configuration name="AppiumBasic" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HybridAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicAppium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasicAppium" />
+      <option name="MAIN_CLASS_NAME" value="BasicAppium.AppiumBasic" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppiumBasic.AppiumBasictest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HybridAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicAppium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasicAppium" />
+      <option name="MAIN_CLASS_NAME" value="BasicAppium.AppiumBasic" />
+      <option name="METHOD_NAME" value="AppiumBasictest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppiumBasic.appiumBasictest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HybridAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicAppium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasicAppium" />
+      <option name="MAIN_CLASS_NAME" value="BasicAppium.AppiumBasic" />
+      <option name="METHOD_NAME" value="appiumBasictest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppiumBasic.testAppiumBasic" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HybridAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicAppium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BasicAppium" />
+      <option name="MAIN_CLASS_NAME" value="BasicAppium.AppiumBasic" />
+      <option name="METHOD_NAME" value="testAppiumBasic" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Flipkart.flipkartlogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="HybridAppium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flipkart.Qaptiol.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.flipkart.Qaptiol.com" />
+      <option name="MAIN_CLASS_NAME" value="com.flipkart.Qaptiol.com.Flipkart" />
+      <option name="METHOD_NAME" value="flipkartlogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Flipkart.flipkartlogin" />
+        <item itemvalue="TestNG.AppiumBasic.appiumBasictest" />
+        <item itemvalue="TestNG.AppiumBasic" />
+        <item itemvalue="TestNG.AppiumBasic.AppiumBasictest" />
+        <item itemvalue="TestNG.AppiumBasic.testAppiumBasic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36089f22-857e-4ea6-908d-50729384bf67" name="Changes" comment="" />
+      <created>1732020079365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732020079365</updated>
+      <workItem from="1732020080445" duration="913000" />
+      <workItem from="1732035751953" duration="2276000" />
+      <workItem from="1732077762711" duration="1609000" />
+      <workItem from="1732084618405" duration="14997000" />
+      <workItem from="1732121577842" duration="306000" />
+      <workItem from="1732162328340" duration="4601000" />
+      <workItem from="1732185812414" duration="150000" />
+      <workItem from="1732267570829" duration="344000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
